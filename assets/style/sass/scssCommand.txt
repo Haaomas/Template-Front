@@ -1,0 +1,3 @@
+sass nomDuFichier.scss:nomDuFichier.css
+
+sass —watch nomDuFichier.scss nomDuFichier.css
